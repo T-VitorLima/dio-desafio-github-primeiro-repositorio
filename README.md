@@ -6,4 +6,4 @@ Repositório criado para o Desafio de Projeto.
  - [Sintaxe Basica Markdown](https://www.markdownguide.org/basic-syntax/)
 
 ## Responsável
-[Thauã Vitor](https://github.com/T-VitorLima)
+ - [Thauã Vitor](https://github.com/T-VitorLima)
